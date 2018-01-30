@@ -182,13 +182,13 @@
 <distributionManagement>
     <repository>
         <id>central</id>
-        <name>inbasdpc08658-releases</name>
-        <url>http://localhost:8040/artifactory/Mvnrepo</url>
+        <name>inbasdpc05914-releases</name>
+        <url>http://172.19.81.119:8040/artifactory/tom-deploy</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>inbasdpc08658-snapshots</name>
-        <url>http://localhost:8040/artifactory/Mvnrepo</url>
+        <name>inbasdpc05914-snapshots</name>
+        <url>http://172.19.81.119:8040/artifactory/tom-deploy</url>
     </snapshotRepository>
 </distributionManagement>
 	<name>simple-web-app</name>
