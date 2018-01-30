@@ -183,12 +183,12 @@
     <repository>
         <id>central</id>
         <name>inbasdpc05914-releases</name>
-        <url>http://172.19.81.119:8040/artifactory/tom-deploy</url>
+        <url>http://172.19.81.119:8040/artifactory/Udeploy</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>inbasdpc05914-snapshots</name>
-        <url>http://172.19.81.119:8040/artifactory/tom-deploy</url>
+        <url>http://172.19.81.119:8040/artifactory/Udeploy</url>
     </snapshotRepository>
 </distributionManagement>
 	<name>simple-web-app</name>
