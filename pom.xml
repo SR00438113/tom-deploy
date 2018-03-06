@@ -6,11 +6,13 @@
   <artifactId>simple-web-app</artifactId>
   <packaging>war</packaging>
   <version>0.0.4-SNAPSHOT</version>
-  <repositories> <repository>
+<repositories>
+	  <repository>
         <id>central</id>
-        <name>inbasdpc05914-releases</name>
-        <url>http://172.19.81.119:8040/artifactory/tom-deploy</url>
-    </repository> </repositories> 
+        <name>k8s-master-releases</name>
+        <url>http://10.20.126.73:8020/artifactory/tom-deply</url>
+    </repository> 
+</repositories> 
   <build>
     <finalName>simple-web-app</finalName>
   </build>
